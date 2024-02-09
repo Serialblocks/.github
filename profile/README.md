@@ -4,7 +4,7 @@
 
 serialblocks is an opens-source project that combines web development with embedded systems
 
-you get to communicate with a real life hardware like an Arduino through an interactive web based interface
+you get to communicate with a real hardware like an Arduino through an interactive web based interface
 
 whether it was connected to your machine , a machine on the same network or a remote machine some where else!
 
@@ -13,7 +13,7 @@ whether it was connected to your machine , a machine on the same network or a re
 - list serial ports
 - connect/disconnect to serial port
 - communicate (read/write) to/from the microcontroller through serial communication
-- visualize data using line charts and in the future more data visulaization methods
+- visualize data using line charts and in the future more data visualization methods
 - through the Terminal block
     - change serial port settings [baudrate, data bits, stop bits, parity, etc]
     - toggle timestamp
@@ -21,17 +21,17 @@ whether it was connected to your machine , a machine on the same network or a re
     - toggle autoscroll
     - clear terminal output
 
-across client notifications (someone connecting to your server, opening/closing a serial port on your machine)
+across clients notifications (someone connecting to your server, opening/closing a serial port on your machine)
 
-easy to code prebuilt blocks 
+easy to code/work with prebuilt blocks 
 
 that let’s you blink first led / graph data / read from a sensor / change color of an RGB led
 
 ## **how it works**
 
-- with serialblocks you get to communicate with your microcontroller with a react web based interface
+- with serialblocks you get to communicate with your microcontroller through a react web based interface
 - through socket connection between the client and the server which is a nodejs server that you run locally that interacts with your microcontroller
-- with **Serial devices** **[Node SerialPort](https://serialport.io/)** package
+- through **[Node SerialPort](https://serialport.io/)** package
 
 the user will need to run serialblocks-local on his/her machine which is a nodejs server that interacts with **Serial devices** **[Node SerialPort](https://serialport.io/)** package
 
