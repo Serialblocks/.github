@@ -1,4 +1,4 @@
-# Serialblocks-labs
+# Serialblocks
 
 ## **Introduction**
 
