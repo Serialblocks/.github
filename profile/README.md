@@ -71,6 +71,7 @@ Connect to multiple microcontrollers not connected directly to your machine, but
 Connect to multiple microcontrollers online that’s not connected directly to your machine nor to a machine on the same local network 
 
 through exposing that machine’s nodejs local server using [localtunnel](https://github.com/localtunnel/localtunnel) to the world
+or through [vscode port forwarding](https://code.visualstudio.com/docs/editor/port-forwarding) 
 
 ## **contribution**
 
