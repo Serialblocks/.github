@@ -13,7 +13,7 @@ You can request a new feature by submitting a [feature request](https://github.c
 If you'd like to implement a new feature, it's always good to be in touch with us before you invest time and effort, since not all features can be supported.
 
 - For a Major Feature, first open an issue and outline your proposal. This will let us coordinate efforts, prevent duplication of work, and help you craft the change so that it's successfully integrated into the project.
-- Small Features can be crafted and directly [submitted as a Pull Request](URL-TO-BE-ADDED).
+- Small Features can be crafted and directly [submitted as a Pull Request](https://github.com/amplication/amplication/blob/master/CONTRIBUTING.md#-how-do-i-make-a-code-contribution).
 
 ## What do you need to know to help?
 
@@ -33,42 +33,35 @@ Client-side (Serialblocks-app)
 - [Socket.IO (Server API)](https://socket.io/docs/v4/server-api/)
 - [Node SerialPort](https://serialport.io/docs/)
 
-### If you want to help out with a starter codes for microcontrollers, you can either:
+### If you want to help out with a starter codes for microcontrollers
 
-1) update an existing codebase by refactoring to enhance perf or adding support for more features
-
-2) write an existing codebase for a microcontroller but in it’s native language
-
-3) adding support for more microcontrollers like PIC
+check [contribution section](https://github.com/Serialblocks/Microcontrollers-starters?tab=readme-ov-file#contribution) on [microcontrollers-starters](https://github.com/Serialblocks/Microcontrollers-starters)
 
 # How do I make a code contribution?
-
-## Open to community
-
-You can check all the issues that are open for community contributions. Check [here](URL-TO-BE-ADDED).
 
 ## Good first issues
 
 Are you new to open source contribution? Wondering how contributions work in our project? Here's a quick rundown.
 
-Find an issue that you're interested in addressing, or a feature that you'd like to add. You can use [this view](URL-TO-BE-ADDED) which helps new contributors find easy gateways into our project.
+Find an issue that you're interested in addressing, or a feature that you'd like to add. You can use [this view](https://github.com/Serialblocks/Serialblocks-app/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) for serialblocks-app or [this view](https://github.com/Serialblocks/Serialblocks-local/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) for serialblocks-local which helps new contributors find easy gateways into our project.
 
 ## Step 1: Make a fork
 
-Fork the Serialblocks-app or serialblocks-local or microcontrollers-starter repository to your GitHub organization. This means that you'll have a copy of the repository under *your-GitHub-username/repository-name*.
-
-> 
-> 
+Fork the [Serialblocks-app](https://github.com/Serialblocks/Serialblocks-app) or [serialblocks-local](https://github.com/Serialblocks/Serialblocks-local) repository to your GitHub organization. This means that you'll have a copy of the repository under *your-GitHub-username/repository-name*.
 
 ## Step 2: Clone the repository to your local machine
 
 ```
-git clone -b next https://github.com/{your-GitHub-username}/Serialblocks-app.git
+# to work on serialblocks-app
+git clone https://github.com/{your-GitHub-username}/Serialblocks-app.git
+
+# to work on serialblocks-local
+git clone https://github.com/{your-GitHub-username}/Serialblocks-local.git
 ```
 
 ## Step 3: Prepare the development environment
 
-Set up and run the development environment on your local machine following the [README](URL-TO-BE-ADDED)
+Set up and run the development environment on your local machine following the [README](https://github.com/amplication/amplication/blob/master/README.md#Development)
 
 ## Step 4: Create a branch
 
@@ -115,7 +108,7 @@ git push origin branch-name-here
 
 In GitHub, do the following to submit a pull request to the upstream repository:
 
-1. Give the pull request a title and a short description of the changes made following the template. Include also the issue or bug number associated with your change. Explain the changes that you made, any issues you think exist with the pull request you made, and any questions you have for the maintainer.⚠️ **Make sure your pull request target the `next` branch.**
+1. Give the pull request a title and a short description of the changes made following the template. Include also the issue or bug number associated with your change. Explain the changes that you made, any issues you think exist with the pull request you made, and any questions you have for the maintainer.
 
 > Pull request title should be in the form of <type>(<package>): <subject> as per commit messages. Remember, it's okay if your pull request is not perfect (no pull request ever is). The reviewer will be able to help you fix any problems and improve it!
 > 
