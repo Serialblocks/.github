@@ -8,7 +8,7 @@ Built with❤︎by [ahmad ghoniem](https://twitter.com/ahmadghoniem_) and [co
 
 ---
 
-📚 Learn how to use Serialblocks by reading the [getting started section](https://www.notion.so/serialblocks-0ff987d32fb741ba901a150f5a7757e2?pvs=21)
+📚 Learn how to use Serialblocks by reading the [Getting Started section](https://github.com/Serialblocks/Serialblocks-app/new/main?filename=README.md#getting-started)
 
 💻 Start using the application instantly on our [hosted solution](https://serialblocks-app.vercel.app/)
 
