@@ -13,7 +13,7 @@ You can request a new feature by submitting a [feature request](https://github.c
 If you'd like to implement a new feature, it's always good to be in touch with us before you invest time and effort, since not all features can be supported.
 
 - For a Major Feature, first open an issue and outline your proposal. This will let us coordinate efforts, prevent duplication of work, and help you craft the change so that it's successfully integrated into the project.
-- Small Features can be crafted and directly [submitted as a Pull Request](https://github.com/amplication/amplication/blob/master/CONTRIBUTING.md#-how-do-i-make-a-code-contribution).
+- Small Features can be crafted and directly [submitted as a Pull Request](https://github.com/Serialblocks/.github/blob/main/profile/CONTRIBUTING.md#how-do-i-make-a-code-contribution).
 
 ## What do you need to know to help?
 
