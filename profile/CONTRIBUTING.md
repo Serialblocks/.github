@@ -61,7 +61,7 @@ git clone https://github.com/{your-GitHub-username}/Serialblocks-local.git
 
 ## Step 3: Prepare the development environment
 
-Set up and run the development environment on your local machine following the [README](https://github.com/amplication/amplication/blob/master/README.md#Development)
+Set up and run the development environment on your local machine following the [README](https://github.com/Serialblocks/Serialblocks-app/README.md#installation)
 
 ## Step 4: Create a branch
 
