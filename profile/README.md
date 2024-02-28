@@ -8,7 +8,7 @@ Built with❤︎by [ahmad ghoniem](https://twitter.com/ahmadghoniem_) and [co
 
 ---
 
-    📚 Learn how to use Serialblocks by reading the [Getting Started section](https://github.com/Serialblocks/Serialblocks-app?tab=readme-ov-file#getting-started)
+📚 Learn how to use Serialblocks by reading the [Getting Started section](https://github.com/Serialblocks/Serialblocks-app?tab=readme-ov-file#getting-started)
 
 💻 Start using the application instantly on our [hosted solution](https://serialblocks-app.vercel.app/)
 
